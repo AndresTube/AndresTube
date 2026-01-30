@@ -4,7 +4,7 @@ i'm a beginner developer currently diving into the world of coding and game deve
 
 ### 🛠 what i do
 * **minecraft plugins:** i'm learning the basics and creating simple plugins to add custom features to the game.
-* **server configuration:** i have solid experience configuring standalone servers—optimizing performance, setting up permissions, and balancing gameplay.
+* **server configuration:** i have solid experience configuring standalone servers, setting up permissions, and balancing gameplay.
 * **learning phase:** i'm currently focusing on improving my java skills and understanding better development workflows.
 
 ### 🚀 current projects
