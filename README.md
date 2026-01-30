@@ -8,10 +8,10 @@ i'm a beginner developer currently diving into the world of coding and game deve
 * **learning phase:** i'm currently focusing on improving my java skills and understanding better development workflows.
 
 ### 🚀 current projects
-* **CalculatorChat:** a utility plugin to handle operations directly in-game.
-* **iLikeHomes:** a simple and efficient home management system for players.
+* **CalculatorChat:** a utility plugin to handle operations directly in-chat.
+* **iLikeHomes:** a simple and generic home management system for players.
 
 ### 🎮 technical skills
-* **languages:** java (learning), bash (scripting)
-* **tools:** spigot/paper api, git, linux terminal
-* **specialty:** server optimization and plugin integration
+* **languages:** java (learning), python (learning also lol)
+* **tools:** spigot/paper api, git, antigravity
+* **specialty:** server configuration and plugin integration
