@@ -10,6 +10,7 @@ i'm a beginner developer currently diving into the world of coding and game deve
 ### 🚀 current projects
 * **CalculatorChat:** a utility plugin to handle operations directly in-chat.
 * **iLikeHomes:** a simple and generic home management system for players.
+* **Aurus:**  a packet based 3D menu system for modern Spigot servers. 
 
 ### 🎮 technical skills
 * **languages:** java (learning), python (learning also lol)
